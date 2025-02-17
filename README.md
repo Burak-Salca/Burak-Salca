@@ -31,7 +31,5 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ## 📊 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADINIZ&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=burak-salca&show_icons=true&theme=radical)
 
-## 📈 Katkı Grafiği
-![Snake animation](https://github.com/GITHUB_KULLANICI_ADINIZ/GITHUB_KULLANICI_ADINIZ/blob/output/github-contribution-grid-snake.svg)
